@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+
+/* Paperlogy */
+@font-face{
+    font-family: 'Paperlogy';
+    font-weight: 300;
+    src: url("../font/Paperlogy-3Light.woff2") format('woff2'),
+    url("../font/Paperlogy-3Light.woff") format('woff');
+}
+
+@font-face{
+    font-family: 'Paperlogy';
+    font-weight: 400;
+    src: url("../font/Paperlogy-4Regular.woff2") format('woff2'),
+    url("../font/Paperlogy-4Regular.woff") format('woff');
+}
+
+@font-face{
+    font-family: 'Paperlogy';
+    font-weight: 500;
+    src: url("../font/Paperlogy-5Medium.woff2") format('woff2'),
+    url("../font/Paperlogy-5Medium.woff") format('woff');
+}
+
+@font-face{
+    font-family: 'Paperlogy';
+    font-weight: 600;
+    src: url("../font/Paperlogy-6SemiBold.woff2") format('woff2'),
+    url("../font/Paperlogy-6SemiBold.woff") format('woff');
+}
+
+@font-face{
+    font-family: 'Paperlogy';
+    font-weight: 700;
+    src: url("../font/Paperlogy-7Bold.woff2") format('woff2'),
+    url("../font/Paperlogy-7Bold.woff") format('woff');
+}
+
+
+
+/* S-CoreDream */
+@font-face{
+    font-family: 'S-CoreDream';
+    font-weight: 200;
+    src: url("../font/SCDream2.woff2") format('woff2'),
+    url("../font/SCDream2.woff") format('woff');
+}
+@font-face{
+    font-family: 'S-CoreDream';
+    font-weight: 300;
+    src: url("../font/SCDream3.woff2") format('woff2'),
+    url("../font/SCDream3.woff") format('woff');
+}
+@font-face{
+    font-family: 'S-CoreDream';
+    font-weight: 400;
+    src: url("../font/SCDream4.woff2") format('woff2'),
+    url("../font/SCDream4.woff.woff") format('woff');
+}
+@font-face{
+    font-family: 'S-CoreDream';
+    font-weight: 500;
+    src: url("../font/SCDream5.woff2") format('woff2'),
+    url("../font/SCDream5.woff.woff") format('woff');
+}
+@font-face{
+    font-family: 'S-CoreDream';
+    font-weight: 600;
+    src: url("../font/SCDream6.woff2") format('woff2'),
+    url("../font/SCDream6.woff.woff") format('woff');
+}
+@font-face{
+    font-family: 'S-CoreDream';
+    font-weight: 700;
+    src: url("../font/SCDream7.woff2") format('woff2'),
+    url("../font/SCDream7.woff.woff") format('woff');
+}
+@font-face{
+    font-family: 'S-CoreDream';
+    font-weight: 800;
+    src: url("../font/SCDream8.woff2") format('woff2'),
+    url("../font/SCDream8.woff.woff") format('woff');
+}
+@font-face{
+    font-family: 'S-CoreDream';
+    font-weight: 900;
+    src: url("../font/SCDream9.woff2") format('woff2'),
+    url("../font/SCDream9.woff.woff") format('woff');
+}
+
+/* 땅스부대찌개 */
+@font-face{
+    font-family:'Ttangsbudaejjigae';
+    font-weight: 300;
+    src: url("../font/TtangsbudaejjigaeLight.woff2  ") format('woff2'),
+    url("../font/TtangsbudaejjigaeLight.woff") format('woff');
+}
+@font-face{
+    font-family:'Ttangsbudaejjigae';
+    font-weight: 500;
+    src: url("../font/TtangsbudaejjigaeMedium.woff2") format('woff2'),
+    url("../font/TtangsbudaejjigaeMedium.woff") format('woff');
+}
+@font-face{
+    font-family:'Ttangsbudaejjigae';
+    font-weight: 600;
+    src: url("../font/TtangsbudaejjigaeBold.woff2") format('woff2'),
+    url("../font/TtangsbudaejjigaeBold.woff") format('woff');
+}
